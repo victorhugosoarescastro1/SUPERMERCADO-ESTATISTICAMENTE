@@ -1,1 +1,3 @@
-# SUPERMERCADO-ESTATISTICAMENTE
+# Projeto Supermercado Vendas em forma de Gráfico 
+
+__EM ANDAMENTO__ ......
